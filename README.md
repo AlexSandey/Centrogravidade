@@ -1,2 +1,2 @@
-![](/src/read1.jpg)
-![](/src/read2.jpg)
+![](CentroGravidade/src/read1.jpg)
+![](CentroGravidade/src/read2.jpg)
